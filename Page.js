@@ -235,7 +235,7 @@
         item: '.post-grid',
         pagination: '#blog-pager',
         next: '#blog-pager-older-link a',
-        loader: '<img src="http://2.bp.blogspot.com/-OppefDeiUDA/UVwLAL_B_mI/AAAAAAAAPO4/y8T9CPORHq4/s1600/loadersz.gif" class="loader-page"/>',
+        loader: '<img src="https://svgshare.com/i/E4Q.svg" class="loader-page"/>',
         loaderDelay: 600,
         triggerPageThreshold: 1,
         trigger: 'See More',
